@@ -1,6 +1,6 @@
 # goldencloud-client
 
-[![npm](https://img.shields.io/npm/v/fat32mk)](https://www.npmjs.com/package/fat32mk)
+[![npm](https://img.shields.io/npm/v/goldencloud-client)](https://www.npmjs.com/package/goldencloud-client)
 
 高登云开票 sdk js实现
 
