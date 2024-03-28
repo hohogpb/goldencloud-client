@@ -1,5 +1,7 @@
 # goldencloud-client
 
+[![npm](https://img.shields.io/npm/v/fat32mk)](https://www.npmjs.com/package/fat32mk)
+
 高登云开票 sdk js实现
 
 [高登云接口文档](https://docs.gc365.com/%E4%BA%91%E5%BC%80%E7%A5%A8/%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E4%BA%A7%E5%93%81%E6%A6%82%E8%BF%B0.html)
